@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirsteKotlinApp</string>
+    <string name="textview">Your age is 0 years</string>
+</resources>
